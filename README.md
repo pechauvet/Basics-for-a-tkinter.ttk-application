@@ -4,6 +4,8 @@ A windowed application skeleton coded with tkinter, which includes configuration
 ### Objective
 This application skeleton illustrates a number of generic features, such as the ability to preserve the configuration between user sessions, the ability to choose its appearance (ttk styles), the language to use. The content of the main window is based on a PanedWindow widget, with two frames whose separation is adjustable, a menu, a toolbar (button with icon and tooltip). A dialog box, which inherits from simpledialog.Dialog, allows you to modify preferences (theme, language). It is intended for introductory course on development of python applications and tkinter.  
 The application is deliberately limited and without concrete application, focusing on a few functionalities, to facilitate the understanding of the code and its appropriation for real projects.
+![screenshot of the application with Preferences dialog box](<img width="1851" height="1042" alt="Example_App_Tk_A" src="https://github.com/user-attachments/assets/68aec317-3d51-452c-ba3b-cd2e3ff0a504" />)
+
 
 ### Third-party components
 First of all, to illustrate the possibility of having a "modern" visual for a tkinter application, I used [rdbende](https://github.com/rdbende)'s ttk themes: azure and forest. 
