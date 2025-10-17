@@ -1,0 +1,39 @@
+{
+    "fr": {
+        "menu.file": "Fichier",
+        "menu.exit": "Quitter",
+        "menu.help": "Aide",
+        "menu.prefs": "Préférences…",
+        "menu.about": "À propos…",
+        "about.title": "À propos de cette application",
+        "about.message": "Exemple application tkinter.ttk multilingue.\n© 2025",
+        "prefs.title": "Préférences",
+        "prefs.language": "Langue",
+        "prefs.appearance": "Aspect (azure, forest)",
+        "prefs.theme": "Thème de couleurs",
+        "prefs.ok": "OK",
+        "prefs.cancel": "Annuler",
+        "main.title": "Exemple application tkinter",
+        "label.welcome": "Bienvenue ! Modifiez vos préférences via Aide > Préférences…",
+        "status.ready": "Prêt"
+    },
+    "en": {
+        "menu.file": "File",
+        "menu.exit": "Exit",
+        "menu.help": "Help",
+        "menu.prefs": "Preferences…",
+        "menu.about": "About…",
+        "about.title": "About this application",
+        "about.message": "Multilingual tkinter.ttk application example.\n© 2025",
+        "prefs.title": "Preferences",
+        "prefs.language": "Language",
+        "prefs.appearance": "Appearance (azure, forest)",
+        "prefs.theme": "Color theme",
+        "prefs.ok": "OK",
+        "prefs.cancel": "Cancel",
+        "main.title": "Tkinter application example",
+        "label.welcome": "Welcome! Edit your preferences via Help > Preferences…",
+        "status.ready": "Ready"
+    },
+    "es": { }
+}

@@ -1,0 +1,17 @@
+{
+    "language": "en",
+    "appearance_mode": "Forest",
+    "color_theme": "dark",
+    "geometry": "849x461+579+162",
+    "appearances": {
+        "Azure": [
+            "light",
+            "dark"
+        ],
+        "Forest": [
+            "light",
+            "dark"
+        ]
+    },
+    "separator_pos": 220
+}
